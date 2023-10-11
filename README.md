@@ -19,7 +19,7 @@
 
 ![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy0ne&show_icons=true&theme=radical)
 
-### Knowledge
+### Passions
 
 <div style="display: inline_block">
     <img align="center" alt="Mainframe" src="https://icons.iconarchive.com/icons/itzikgur/my-seven/256/Backup-IBM-Server-icon.png"/>
